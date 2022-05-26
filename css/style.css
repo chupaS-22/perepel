@@ -31,6 +31,33 @@ h1, h2 {
       height: 100%;
   }
 
+  .ingredients-h1 {
+    font-size: 40px;
+    text-align: center;
+    padding-bottom: 20px;
+    margin-top: 25px;
+
+  }
+
+.img-ingredients {
+  text-align: center;
+}
+  
+.ingredients {
+  text-align: center;
+}
+
+.em {
+  font-size: 20px;
+  text-align: justify;
+  font-style: italic;
+  
+}
+
+.table-kkal {
+  text-align: left;
+  border: 1px;
+}
 
 
 
