@@ -30,6 +30,10 @@ h1, h2 {
   
 }
 
+.navbar-brand:hover {
+  color: rgb(182, 179, 185);
+}
+
   ul li {
       color: aliceblue;
       justify-content: space-around;
@@ -97,6 +101,10 @@ h1, h2 {
 .nav-link:hover {
   color: rgb(182, 179, 185);
   
+}
+
+.navbar-collapse {
+  margin-left: 0px;
 }
 
 
