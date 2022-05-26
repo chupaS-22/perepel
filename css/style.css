@@ -1,0 +1,40 @@
+
+
+h1, h2 {
+    text-align: center;
+    padding-bottom: 10px;
+    
+    text-transform: uppercase;
+}
+
+.card {
+    border-radius: 1em;
+    text-align: center;
+    padding: 1em;
+  }
+
+  .card:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+
+  }
+
+  .card img {
+    border-radius: 50%;
+    width: 80%;
+    margin: auto;
+    
+  }
+
+  ul li {
+      color: aliceblue;
+      justify-content: space-around;
+      height: 100%;
+  }
+
+
+
+
+
+
+
+
