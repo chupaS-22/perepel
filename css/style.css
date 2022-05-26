@@ -25,6 +25,11 @@ h1, h2 {
     
   }
 
+.navbar-brand {
+  color: #fff;
+  
+}
+
   ul li {
       color: aliceblue;
       justify-content: space-around;
@@ -83,6 +88,15 @@ h1, h2 {
   
   text-decoration: none;
   color: #fff;
+}
+
+.navbar-nav a {
+  color: #fff;
+}
+
+.nav-link:hover {
+  color: rgb(182, 179, 185);
+  
 }
 
 
