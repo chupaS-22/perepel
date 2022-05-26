@@ -59,6 +59,31 @@ h1, h2 {
   border: 1px;
 }
 
+.footer-info {
+  margin-top:10px;
+  list-style-type: none;
+  
+}
+
+.footer-kontact {
+  margin-top: 20px;
+  list-style-type: none;
+  text-align: end;
+}
+
+.footer-info img {
+  width: 25px;
+  align-items: center;
+  margin: 5px 5px;
+  float: left;
+  text-align: center;
+}
+
+.col a {
+  
+  text-decoration: none;
+  color: #fff;
+}
 
 
 
